@@ -1,2 +1,4 @@
 # Mini smart bot
- A mini python bot for chatting & speech recognition for a few limited sentences.
+ A mini-bot program powered in python.
+ Made for live chatting with Bob-bot.
+ Speech recognition is included for a few limited sentences.
